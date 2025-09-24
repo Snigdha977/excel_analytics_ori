@@ -95,5 +95,4 @@ This project is licensed under the MIT License.
 # Support 
 for queries 
 contact :snigdhasaha.student@gmail.com
-pgsql
-Copy code
+
